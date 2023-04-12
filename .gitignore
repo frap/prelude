@@ -32,3 +32,6 @@ var/
 .lsp-session*
 gotools/
 eln-cache/
+.local/
+.mc-lists.el
+anaconda-mode/
